@@ -1,0 +1,37 @@
+# Linux Install Programs (make into script later)
+In no particular order but here is your current
+linux install/things you installed/changed (from memory)
+
+KDE 
+Onze menu 11
+Global theme: white sur dark
+
+Terminal: konsole
+install zsh
+install oh my zsh
+install powerlvl10k
+install zsh-auto-suggestions
+install nvm (node manager)
+install firacodes, powerlvl10k fonts
+install vscode
+install gnome-keyring for vscode credentials
+edit ~/.ssh/config for server aliases
+  ex:
+      Host imac
+	      HostName 192.168.86.23
+	      User tuti
+	      PubKeyAuthentication yes
+	      IdentityFile ~/.ssh/id_imac
+	      IdentitiesOnly yes
+
+create keys with ssh-keygen and transfer them to server 
+
+change splash screen
+change shortcut for firefox: super + i
+shortcut for terminal: ctrl+shift+enter
+System Settings > Startup and Shutdown > Login Screen SDDM > Behavior... > Turn on start with empty session
+
+check for snap firefox and switch to ppa firefox(ubuntu)
+
+
+
