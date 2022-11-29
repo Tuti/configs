@@ -32,6 +32,6 @@ shortcut for terminal: ctrl+shift+enter
 System Settings > Startup and Shutdown > Login Screen SDDM > Behavior... > Turn on start with empty session
 
 check for snap firefox and switch to ppa firefox(ubuntu)
-
+install glances -> good system resources utilization tool for terminal
 
 
